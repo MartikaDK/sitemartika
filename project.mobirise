@@ -318,7 +318,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "3000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": false,
             "slides": [
               {
@@ -408,7 +408,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-9360.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -426,7 +426,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-9357.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
